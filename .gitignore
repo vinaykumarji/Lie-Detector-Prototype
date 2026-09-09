@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Generated data
+data/
+*.csv
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
