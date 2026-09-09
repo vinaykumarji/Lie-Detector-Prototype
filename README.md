@@ -180,20 +180,8 @@ Do not connect a human subject to mains-powered circuits or unsafe external powe
 
 Use appropriate current limiting and a properly designed sensing front-end. The breadboard shown here is a learning prototype, not a medically certified device.
 
-## Repository structure
 
-```text
-NE555-Lie-Detector-Prototype/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── docs/
-│   ├── methodology.md
-│   └── experiment-log-template.md
-├── hardware/
-│   └── circuit-notes.md
-└── images/
-    └── ne555_breadboard_prototype.jpg
+
 ```
 
 ## Status
@@ -202,10 +190,4 @@ NE555-Lie-Detector-Prototype/
 
 The next major stage is automatic frequency measurement and data logging.
 
-## License
 
-MIT License. See `LICENSE`.
-
-## Author
-
-Electronics / signal-processing educational project.
